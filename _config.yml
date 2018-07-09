@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Joshua's Jams
+title: Joshua Bernhard
 email: josh@udacity.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website is devoted to posts related to data science, software engineering, blockchain, deep learning, and other things I am working on.
